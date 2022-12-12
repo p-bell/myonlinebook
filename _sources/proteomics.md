@@ -1,0 +1,1 @@
+This is a short book, to get you started with analysis of proteomics datasets - specifically, with a focus on degradomics. 
